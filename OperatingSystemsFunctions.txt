@@ -1,2 +1,6 @@
 One of operating system function is Memory Management. The System manages the PrimaryMemory or Main Memory. Main memory is the fastest way which work with CPU.
 In a computer, both the CPU and the I/O devices interact with the memory. When a program needs to be executed it is loaded onto the main memory till the execution is completed. 
+
+Another one is Device Management. The OS communicates with hardware and all devices. Also maintains a balance between them and the CPU. This is all the more important because the CPU processing speed is much higher than that of I/O devices.
+
+One more, File Management. It function works with the files, folders and directory systems on a computer.  Any data on a computer is stored in the form of files and the operating system keeps information about all of them using File Allocation Table (FAT). The file manager of the operating system helps to create, edit, copy, allocate memory to the files and also updates the FAT. Also OS works through proper access. 
