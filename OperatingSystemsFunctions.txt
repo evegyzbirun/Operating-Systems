@@ -1,0 +1,2 @@
+One of operating system function is Memory Management. The System manages the PrimaryMemory or Main Memory. Main memory is the fastest way which work with CPU.
+In a computer, both the CPU and the I/O devices interact with the memory. When a program needs to be executed it is loaded onto the main memory till the execution is completed. 
